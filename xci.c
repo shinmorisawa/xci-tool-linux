@@ -2,7 +2,7 @@
 #include <stdint.h>
 #include <string.h>
 #include <sys/stat.h>
-#include "xci2.h"
+#include "xci.h"
 
 int main ()
 {
